@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class NhanVien extends CanBo {
-       protected String cong_viec;
+       private String cong_viec;
 
        public NhanVien(){
 
