@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CongNhan extends CanBo {
-       protected String Bac;
+       private String Bac;
         
        public CongNhan(){
 
