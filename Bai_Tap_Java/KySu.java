@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class KySu extends CanBo {
-       protected String nganh_dao_tao;
+       private String nganh_dao_tao;
         
        public KySu(){
 
